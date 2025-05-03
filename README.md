@@ -3,13 +3,14 @@
 
 ## Table of Contents
 
-- [📌 Project Overview](#project-overview)
-- [🔍 Objective](#objective)
-- [📊 Key Visuals](#key-visuals)
-- [🛠️ Libraries Used](#libraries-used)
-- [📈 Key Insights](#key-insights)
-- [📂 Dataset Description](#dataset-description)
-- [👀 A Glimpse of the Visual Analysis](#a-glimpse-of-the-visual-analysis)
+- [Project Overview](#project-overview)
+- [Objective](#objective)
+- [Key Visuals](#key-visuals)
+- [Libraries Used](#libraries-used)
+- [Key Insights](#key-insights)
+- [Dataset Description](#dataset-description)
+- [A Glimpse of the Visual Analysis](#a-glimpse-of-the-visual-analysis)
+
 
 
 
