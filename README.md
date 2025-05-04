@@ -64,7 +64,14 @@ The dataset contains public posts collected from Instagram, Twitter, and Faceboo
 - Country: Country of origin  
 - Hashtags: Any hashtags used in the post  
 - Likes, Retweets: Engagement metrics  
-- VADER_Sentiment: Final sentiment classification (Positive, Neutral, Negative)  
+- VADER_Sentiment: Final sentiment classification (Positive, Neutral, Negative)
+
+  ## 🔗 Dataset Source
+
+The dataset used in this project was sourced from Kaggle:
+
+[Social Media Sentiments Analysis Dataset](https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset)
+
 
 <a name="a-glimpse-of-the-visual-analysis"></a>
 ## 👀 A Glimpse of the Visual Analysis
